@@ -11,14 +11,14 @@
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][aa1]
 [![](https://img.shields.io/badge/Progress-Complete-informational?style=flat&color=706240)][a1]
 
-<img src="Images/a1.png" width="250">
+<img src="Images/a1.png" width="200">
 
 ### Building Lists and Navigation
 
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][aa2]
 [![](https://img.shields.io/badge/Progress-Complete-informational?style=flat&color=706240)][a2]
 
-<img width="250" src="Images/a2.png">
+<img src="Images/a2.png" width="200">
 
 ### Handling User Input
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][aa3]
