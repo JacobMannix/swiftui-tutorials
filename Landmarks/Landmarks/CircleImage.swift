@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  creating-and-combining-views
+//  Landmarks
 //
 //  Created by Jacob Mannix on 10/27/20.
 //
