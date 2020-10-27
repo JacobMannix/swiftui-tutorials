@@ -17,6 +17,7 @@
 
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][aa2]
 [![](https://img.shields.io/badge/Progress-Complete-informational?style=flat&color=706240)][a2]
+
 <img width="250" src="Images/a2.png">
 
 ### Handling User Input
