@@ -10,6 +10,7 @@
 ### Creating and Combining Views
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][aa1]
 [![](https://img.shields.io/badge/Progress-Complete-informational?style=flat&color=706240)][a1]
+![a1_progress](a1.png)
 
 ### Building Lists and Navigation
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][aa2]
