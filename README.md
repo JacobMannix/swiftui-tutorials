@@ -23,35 +23,35 @@
 ## Drawing and Animation
 ### Drawing Paths and Shapes
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][bb1]
-[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=706240)][b1]
+[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=E6004C)][b1]
 
 ### Animating Views and Transitions
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][bb2]
-[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=706240)][b2]
+[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=E6004C)][b2]
 
 #
 ## App Design and Layout
 ### Composing Complex Interfaces
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][cc1]
-[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=706240)][c1]
+[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=E6004C)][c1]
 
 ### Working with UI Controls
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][cc2]
-[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=706240)][c2]
+[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=E6004C)][c2]
 
 #
 ## Framework Integration
 ### Interfacing with UI Kit
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][dd1]
-[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=706240)][d1]
+[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=E6004C)][d1]
 
 ### Creating a Watch OS App
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][dd2]
-[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=706240)][d2]
+[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=E6004C)][d2]
 
 ### Creating a Mac OS App
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][dd3]
-[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=706240)][d3]
+[![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=E6004C)][d3]
 
 
 <!-- Links -->
