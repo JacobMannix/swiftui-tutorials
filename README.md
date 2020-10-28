@@ -27,7 +27,7 @@
 | Creating and Combining Views | Building Lists and Navigation | Handling User Input |
 | --------------- | --------------- | --------------- |
 | [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][aa1] | [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][aa2] | [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][aa3] |
-| <p align="center">[![](https://img.shields.io/badge/Progress-In_Progress-informational?style=flat&color=706240)][a1]</p> | <p align="center">[![](https://img.shields.io/badge/Progress-In_Progress-informational?style=flat&color=706240)][a2]</p> | <p align="center">[![](https://img.shields.io/badge/Progress-In_Progress-informational?style=flat&color=706240)][a3]</p> |
+| [![](https://img.shields.io/badge/Progress-In_Progress-informational?style=flat&color=706240)][a1] | [![](https://img.shields.io/badge/Progress-In_Progress-informational?style=flat&color=706240)][a2] | [![](https://img.shields.io/badge/Progress-In_Progress-informational?style=flat&color=706240)][a3] |
 | <img src="Images/a1.png" width="200"> | <img src="Images/a2.png" width="200"> | <img src="Images/a3.png" width="200"> |
 
 
