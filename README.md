@@ -24,7 +24,7 @@
 [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][aa3]
 [![](https://img.shields.io/badge/Progress-In_Progress-informational?style=flat&color=706240)][a3]
 
-<!-- <img src="Images/a3.png" width="250"> -->
+<img src="Images/a3.png" width="200">
 
 #
 ## Drawing and Animation
