@@ -19,7 +19,7 @@
 | Drawing Paths and Shapes | Animating Views and Transitions |
 | :---------------: | :---------------: |
 | [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][bb1] | [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][bb2] |
-| [![](https://img.shields.io/badge/Progress-In_Progress-informational?style=flat&color=706240)][b1] | [![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=706240)][b2] |
+| [![](https://img.shields.io/badge/Progress-Complete-informational?style=flat&color=706240)][b1] | [![](https://img.shields.io/badge/Progress-In-Progress-informational?style=flat&color=706240)][b2] |
 | <img src="Images/b1.png" width="290"> | <!-- <img src="Images/b2.png" width="290"> --> |
 
 
