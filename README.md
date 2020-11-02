@@ -29,7 +29,7 @@
 | :---------------: | :---------------: |
 | [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][cc1] | [![](https://img.shields.io/badge/Link-Apple_Developer-informational?style=flat&color=7D7D7D)][cc2] |
 | [![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=706240)][c1] | [![](https://img.shields.io/badge/Progress-Not_Started-informational?style=flat&color=706240)][c2] |
-<!-- | <img src="Images/c1.png" width="290"> | <img src="Images/c2.png" width="290"> | -->
+| <!-- <img src="Images/c1.png" width="290"> --> | <!-- <img src="Images/c2.png" width="290"> --> |
 
 
 #
